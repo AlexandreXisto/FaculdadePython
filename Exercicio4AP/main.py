@@ -1,4 +1,4 @@
-rint('-' * 50)
+int('-' * 50)
 Codigo = {}
 Estoque = {}
 Minimo = {}

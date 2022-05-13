@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aluguel de Carros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aluguel de Carros/Aluguel-de-Carros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aluguel de Carros/Aluguel-de-Carros-Km-rodados-e-dias" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aluguel de Carros/Consumo-de-energia-a-ser-pago" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculadora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Consumo de Energia a ser pago" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Consumo de Energia a ser pago/Consumo-de-energia-a-ser-pago" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Descontos em produtos/Desconto-em-produtos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Loja de Informatica/Loja-de-Inform-tica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tabuada/Calculo-de-Tabuada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tabuada/Teste" vcs="Git" />
+  </component>
+</project>
